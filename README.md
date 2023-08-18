@@ -1,10 +1,12 @@
 
 
-![Duffing Oscillator](DuffinOscillator.jpg)
+
 
 ## Introduction
 
 Welcome to the comprehensive guide on the Duffing Oscillator! This document aims to provide an in-depth understanding of the Duffing oscillator, its significance, behavior, and numerical simulation. If you're curious about nonlinear dynamics, chaotic systems, or simply want to explore the fascinating world of oscillations, you're in the right place.
+
+![Duffing Oscillator](DuffinOscillator.jpg)
 
 ## Table of Contents
 
