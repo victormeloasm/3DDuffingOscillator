@@ -1,6 +1,6 @@
 
 
-![Duffing Oscillator](DuffingOscillator.jpg)
+![Duffing Oscillator](DuffinOscillator.jpg)
 
 ## Introduction
 
