@@ -8,6 +8,9 @@ Welcome to the comprehensive guide on the Duffing Oscillator! This document aims
 
 ![Duffing Oscillator](DuffinOscillator.jpg)
 
+
+![Duffing Oscillator](DuffingOscillator2.jpg)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
